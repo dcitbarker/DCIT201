@@ -4,6 +4,7 @@ public class Calculator {
     // properties
     private int leftOperand;
     private int rightOperand;
+    int anotherVariableForDemonstration; // Camel Casing
 
     /**
      * constructor is a method that defines the rules for creating classes
@@ -30,6 +31,10 @@ public class Calculator {
      * Next: return type - datatype or object returned by the method using
      * the RETURN keyword
      */
+    // Method overloading - defining an re-existing method but with different params
+
+
+
     public int add() {
         return this.leftOperand + this.rightOperand;
     }

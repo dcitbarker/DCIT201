@@ -9,7 +9,8 @@ public class Main {
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter Operation number: 1. Addition 2. Subtraction 3. Multiplication 4. Division");
+        System.out.println("Enter Operation number: 1. Addition 2. " +
+                "Subtraction 3. Multiplication 4. Division");
         operator = scanner.nextInt();
 
         System.out.println("Enter first number");
@@ -38,9 +39,5 @@ public class Main {
         System.out.println("Result is " + result);
 
 
-//        System.out.println("Sum is " + calculator.add());
-//        System.out.println("Subtraction is " + calculator.subtract());
-//        System.out.println("Divide is " + calculator.division());
-//        System.out.println("Multiply is " + calculator.multiply());
     }
 }
