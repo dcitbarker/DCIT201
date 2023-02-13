@@ -14,30 +14,19 @@ public class Main {
         operator = scanner.nextInt();
 
         System.out.println("Enter first number");
-
         calculator.setLeftOperand(scanner.nextInt());
 
         System.out.println("Enter Second number");
         calculator.setRightOperand(scanner.nextInt());
 
         switch (operator) {
-            case 1:
-                result = calculator.add();
-            break;
-            case 2:
-                result = calculator.subtract();
-            break;
-            case 3:
-                result = calculator.multiply();
-            break;
-            case 4:
-                result = calculator.division();
-                break;
-            default: System.out.println("Invalid operation");
+            case 1 -> result = calculator.add();
+            case 2 -> result = calculator.subtract();
+            case 3 -> result = calculator.multiply();
+            case 4 -> result = calculator.division();
+            default -> System.out.println("Invalid operation");
         }
 
         System.out.println("Result is " + result);
-
-
     }
 }
