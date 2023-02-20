@@ -1,3 +1,5 @@
+package Calculator;
+
 public interface IShape {
 // interface contain methods without implementation
     // all methods are abstract

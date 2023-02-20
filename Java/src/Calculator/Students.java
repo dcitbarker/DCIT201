@@ -1,3 +1,5 @@
+package Calculator;
+
 public class Students extends User implements IShape{
 
     public Students(String email, String password) {

@@ -1,3 +1,8 @@
+package Calculator;
+
+import javax.sql.rowset.serial.SerialArray;
+import java.sql.Array;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -7,6 +12,10 @@ public class Main {
         double result = 0;
 
         Calculator calculator = new Calculator();
+        Calculator calculator2 = new Calculator();
+        Calculator calculator3 = new Calculator();
+        Calculator calculator4 = new Calculator();
+        Calculator calculator5 = new Calculator();
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter Operation number: 1. Addition 2. " +
@@ -28,5 +37,14 @@ public class Main {
         }
 
         System.out.println("Result is " + result);
+
+        int home = 2;
+        double v = Math.sqrt(4);
+
+
     }
+
+
+
+
 }

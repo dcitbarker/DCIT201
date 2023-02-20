@@ -1,3 +1,5 @@
+package Calculator;
+
 public abstract class User {
     private String password;
     private String email;
