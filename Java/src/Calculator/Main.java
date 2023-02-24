@@ -1,8 +1,5 @@
 package Calculator;
 
-import javax.sql.rowset.serial.SerialArray;
-import java.sql.Array;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -37,10 +34,6 @@ public class Main {
         }
 
         System.out.println("Result is " + result);
-
-        int home = 2;
-        double v = Math.sqrt(4);
-
 
     }
 

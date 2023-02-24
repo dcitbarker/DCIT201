@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fef815d-808b-4447-bcfa-5b5b6d28753a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/BookDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/PersonDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/BookDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/MovieDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/CarDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/CircleDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/PersonDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assignment1/BookDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_1/Assignment1/BookDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assignment3/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_1/Assignment3/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assignment3/CarDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_1/Assignment3/CarDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "last_opened_file_path": "C:/Users/12192/Dropbox/GIT/DCIT201/Java/src/Assignment1a"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12192/Dropbox/GIT/DCIT201/Java/src/Assignment1a&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\12192\Dropbox\GIT\DCIT201\Java\src\Assignment1a" />
@@ -66,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Assignment3.PersonDriver">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Assignment2.BookDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment2.BookDriver" />
       <module name="oop_1" />
@@ -134,9 +121,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Assignment3.PersonDriver" />
         <item itemvalue="Application.CircleDriver" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovieDriver" />
         <item itemvalue="Application.Assignment2.BookDriver" />
       </list>

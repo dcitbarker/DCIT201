@@ -18,8 +18,6 @@ public class Rectangle extends Shape implements IShape{
 
     @Override
     public double perimeter() {
-//        return (length * 2) * breadth * 2;
-        //stub;
-        return 0;
+        return (length * 2) * (breadth * 2);
     }
 }

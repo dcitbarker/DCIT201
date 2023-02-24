@@ -10,13 +10,12 @@ public abstract class User {
         this.password = password;
     }
 
-
     public String getPassword() {
         return password;
     }
 
-    public String getPassword(String name) {
-        return password;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public String getEmail() {
@@ -25,10 +24,6 @@ public abstract class User {
 
     public void setEmail(String email) {
         this.email = email;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
     }
 
     abstract boolean login();
