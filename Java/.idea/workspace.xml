@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fef815d-808b-4447-bcfa-5b5b6d28753a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/AbstractShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/AnimalDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/Elephant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/EmployeeDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_1/Assingment5/Tiger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/AnimalDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/AnimalDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/Elephant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/Elephant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/EmployeeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/EmployeeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assingment5/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/Tiger.java" afterDir="false" />
-    </list>
+    <list default="true" id="7fef815d-808b-4447-bcfa-5b5b6d28753a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/12192/Dropbox/GIT/DCIT201/Java/src/Assignment1a"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12192/Dropbox/GIT/DCIT201/Java/src/Assignment1a&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\12192\Dropbox\GIT\DCIT201\Java\src\Assignment1a" />
@@ -138,7 +117,6 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Assignment5.EmployeeDriver" />
-        <item itemvalue="Application.Assignment5.AnimalDriver" />
         <item itemvalue="Application.RectangleDriver" />
         <item itemvalue="Application.StudentDriver" />
       </list>
