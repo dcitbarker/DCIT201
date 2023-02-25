@@ -1,4 +1,4 @@
-package Assingment5;
+package Assignment5;
 /*
     EMPLOYEE CLASS
 */
