@@ -5,9 +5,9 @@ We set the properties and get the properties
  */
 public class BookDriver {
     // storing sample books in a String array
-    static String[] bk1 = {"Anthony Barker", "Programming Fundamentals", "10981589", "200", "50.50"};
-    static String[] bk2 = {"Anthony Barker", "JAVA - AN OOP", "10981589", "100", "200.50"};
-    static String[] bk3 = {"Anthony Barker", "THE POWER OF PHP", "10981589", "400", "500.50"};
+    static String[] bk1 = {"Anthony Barker", "Programming Fundamentals", "10981588", "200", "50.50"};
+    static String[] bk2 = {"Anthony Barker", "JAVA - AN OOP", "10981588", "100", "200.50"};
+    static String[] bk3 = {"Anthony Barker", "THE POWER OF PHP", "10981588", "400", "500.50"};
 
     public static void main(String[] args) {
         Book book_1 = new Book();   // first book object
