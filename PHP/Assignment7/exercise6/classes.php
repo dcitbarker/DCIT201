@@ -73,5 +73,3 @@ class Teacher extends Person {
 		$this->yearsTeaching = $value;
 	}
 }
-
-?>
