@@ -1,4 +1,4 @@
-package Java;
+package IA;
 
 import java.util.Scanner;
 

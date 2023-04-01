@@ -1,4 +1,4 @@
-package Java;
+package IA;
 
 public class Player extends GameCharacter {
 
