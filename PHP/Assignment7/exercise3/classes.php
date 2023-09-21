@@ -37,29 +37,27 @@ class Cirle extends Shape {
 }
 
 class Rectangle extends Shape {
-
+	
     private $length;
     private $width;
 
-	public function getLength() : float {
+	public function getLength() {
 		return $this->length;
 	}
 
-	public function setLength(float $value) {
+	public function setLength($value) {
 		$this->length = $value;
 	}
 
-	public function getWidth() : float {
+	public function getWidth() {
 		return $this->width;
 	}
 
-	public function setWidth(float $value) {
+	public function setWidth($value) {
 		$this->width = $value;
 	}
 
 	public function calculateArea() {
-        return $this->length * $this->width;
+		return $this->length * $this->width;
 	}
 }
-
-?>
